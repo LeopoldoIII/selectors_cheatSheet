@@ -17,3 +17,8 @@ In a relative XPath, as the name suggests, we can start locating the element fro
     //h2[contains(text(),'Register')]
     
 ![image](https://user-images.githubusercontent.com/26559577/223591516-5538ab54-d498-440a-bea0-b4ab83945749.png)
+
+
+    //input[contains(@value,'Hockey')]
+
+![image](https://user-images.githubusercontent.com/26559577/223591728-d5ebaf34-8ef5-447f-b499-25da0ea8b0b3.png)
