@@ -12,3 +12,8 @@ In a relative XPath, as the name suggests, we can start locating the element fro
     //button[contains(@type, "submit")]
 
 ![image](https://user-images.githubusercontent.com/26559577/223585218-576979ec-3c86-4db4-bdd1-f0c3579a75ef.png)
+
+
+    //h2[contains(text(),'Register')]
+    
+![image](https://user-images.githubusercontent.com/26559577/223591516-5538ab54-d498-440a-bea0-b4ab83945749.png)
