@@ -22,3 +22,10 @@ In a relative XPath, as the name suggests, we can start locating the element fro
     //input[contains(@value,'Hockey')]
 
 ![image](https://user-images.githubusercontent.com/26559577/223591728-d5ebaf34-8ef5-447f-b499-25da0ea8b0b3.png)
+
+
+    //input[starts-with(@name, 'login') ]
+
+
+![image](https://user-images.githubusercontent.com/26559577/228932881-9d0b88a0-5ead-46e4-b744-13a7353213ec.png)
+
