@@ -38,8 +38,11 @@ In a relative XPath, as the name suggests, we can start locating the element fro
 
 ## and 
     //td[@colspan='5' and @class='f22']
+    //td[@colspan='5'][@class='f22']
 
 ![image](https://user-images.githubusercontent.com/26559577/229263417-259fa85f-69c9-4a9d-a30e-b47d4369695f.png)
+
+
 
 
 
