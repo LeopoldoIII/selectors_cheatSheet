@@ -36,4 +36,10 @@ In a relative XPath, as the name suggests, we can start locating the element fro
 
 <img width="550" alt="image" src="https://user-images.githubusercontent.com/26559577/229135574-b36376bd-5c1f-4763-a5d8-32e33f649588.png">
 
+## and 
+    //td[@colspan='5' and @class='f22']
+
+![image](https://user-images.githubusercontent.com/26559577/229263417-259fa85f-69c9-4a9d-a30e-b47d4369695f.png)
+
+
 
