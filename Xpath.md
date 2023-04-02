@@ -42,7 +42,12 @@ In a relative XPath, as the name suggests, we can start locating the element fro
 
 ![image](https://user-images.githubusercontent.com/26559577/229263417-259fa85f-69c9-4a9d-a30e-b47d4369695f.png)
 
+## Axes 
+### -Self
 
+    //input[@type='radio']//self::input
+    
+<img width="550" alt="image" src="https://user-images.githubusercontent.com/26559577/229327525-5ba07933-9d86-4cac-a9b4-33dcb483b5fe.png">
 
 
 
