@@ -68,4 +68,27 @@ In a relative XPath, as the name suggests, we can start locating the element fro
 
 <img width="640" alt="image" src="https://user-images.githubusercontent.com/26559577/229330825-44c68cee-485f-4210-a9b6-22ade04c9f6d.png">
 
+### - following 
 
+    //input[@type='checkbox']//following::div
+
+<img width="639" alt="image" src="https://user-images.githubusercontent.com/26559577/229358085-8c55836f-1e78-4dc0-a23e-279c3c5b86b1.png">
+
+
+### -- following-sibling
+
+    //label[contains(text(), 'Date Of Birth')]//following-sibling::div
+
+<img width="645" alt="image" src="https://user-images.githubusercontent.com/26559577/229366782-7470d311-81a4-4714-bdb4-e956f76cd205.png">
+
+### - preceding
+
+    //input[@type='checkbox']//preceding::div
+
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/26559577/229358319-1f04a4e8-c973-4e4a-a231-6bf9bab91795.png">
+
+### - preceding-sibling
+
+    //label[@class='checks']//preceding-sibling::input 
+
+<img width="640" alt="image" src="https://user-images.githubusercontent.com/26559577/229361928-a9038eb3-7b41-4b03-911b-d995f3862416.png">
