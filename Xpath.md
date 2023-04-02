@@ -49,5 +49,17 @@ In a relative XPath, as the name suggests, we can start locating the element fro
     
 <img width="550" alt="image" src="https://user-images.githubusercontent.com/26559577/229327525-5ba07933-9d86-4cac-a9b4-33dcb483b5fe.png">
 
+### -parent 
+
+    //input[@type='radio']//parent::label
+
+<img width="437" alt="image" src="https://user-images.githubusercontent.com/26559577/229327770-6ca409a1-5549-48ca-990b-edc1a83d1406.png">
+
+### -ancestor
+
+    //input[@type='radio']//ancestor::div
+
+
+<img width="639" alt="image" src="https://user-images.githubusercontent.com/26559577/229327893-bf5ff15f-91d4-4703-93b5-0249fd92797c.png">
 
 
