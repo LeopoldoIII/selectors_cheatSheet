@@ -32,3 +32,15 @@
     span[class="glyphicon glyphicon-eye-close form-control-feedback showPasswordEyeball adjusted"]
 
 <img width="643" alt="image" src="https://user-images.githubusercontent.com/26559577/229654237-a41a3e9e-4fac-422e-9ee0-551155b609ba.png">
+
+    ul.nav.navbar-nav.navbar-left>li:nth-child(2)
+
+<img width="539" alt="image" src="https://user-images.githubusercontent.com/26559577/229862291-40c9c1f7-aa56-4052-a77b-260983db9ec9.png">
+
+
+    ul.nav.navbar-nav.navbar-left>li:nth-child(3)>ul>li:nth-child(5)>a
+    
+
+<img width="632" alt="image" src="https://user-images.githubusercontent.com/26559577/229868023-78a7057e-351c-4310-8fba-0157a32d7ccd.png">
+
+
