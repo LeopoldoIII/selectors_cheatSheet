@@ -29,5 +29,6 @@
 ## class 
 
     .glyphicon.glyphicon-eye-close.form-control-feedback.showPasswordEyeball.adjusted
+    span[class="glyphicon glyphicon-eye-close form-control-feedback showPasswordEyeball adjusted"]
 
 <img width="643" alt="image" src="https://user-images.githubusercontent.com/26559577/229654237-a41a3e9e-4fac-422e-9ee0-551155b609ba.png">
