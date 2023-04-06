@@ -43,4 +43,10 @@
 
 <img width="632" alt="image" src="https://user-images.githubusercontent.com/26559577/229868023-78a7057e-351c-4310-8fba-0157a32d7ccd.png">
 
+## starts with ^  
+
+    input[name^=name]
+
+<img width="632" alt="image" src="https://user-images.githubusercontent.com/26559577/230445954-1708097b-3afd-48a9-8e84-459ac0ecbca1.png">
+
 
