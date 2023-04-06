@@ -50,3 +50,15 @@
 <img width="632" alt="image" src="https://user-images.githubusercontent.com/26559577/230445954-1708097b-3afd-48a9-8e84-459ac0ecbca1.png">
 
 
+## ends with $
+
+    input[id$=ter]
+
+<img width="637" alt="image" src="https://user-images.githubusercontent.com/26559577/230446569-02e8ca5c-7e59-4191-bd41-a70f9dad2db2.png">
+
+## contains *
+
+<img width="639" alt="image" src="https://user-images.githubusercontent.com/26559577/230447275-c986d342-673b-42cc-9d8f-5ed7b12976ab.png">
+
+
+
